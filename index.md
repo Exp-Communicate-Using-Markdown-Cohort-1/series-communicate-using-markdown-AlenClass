@@ -9,6 +9,10 @@ public class Main{
 }
 ```
 ### Third Header
+- [x] Think
+- [x] Be
+- [x] Learn
+- [ ] Apply
 #### Fourth Header
 ##### Fifth Header
 ###### Sixth Header
